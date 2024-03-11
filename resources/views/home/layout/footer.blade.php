@@ -12,8 +12,7 @@
                     <p>We have a team of experienced managers, technicians, and skilled workers, drawn from the various requisite disciplines in oil and gas</p>
                     <ul class="social-icon">
                         <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                        <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-                        <li><a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+                        <li><a href="#"><i class="fa-brands fa-x-twitter" aria-hidden="true"></i></a></li>
                         <li><a href="#"><i class="fa fa-pinterest" aria-hidden="true"></i></a></li>
                         <li><a href="#"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
                     </ul>
@@ -57,7 +56,7 @@
                     <ul>
                         <li>
                             <i class="flaticon-direction-signs"></i>
-                            40 NTA Road, Rumuokwuta, Port Harcourt , Port Harcourt,
+                            40 NTA Road, Rumuokwuta, Port Harcourt, Rivers State, Nigeria.
                         </li>
                         <li>
                             <i class="flaticon-multimedia-1"></i>

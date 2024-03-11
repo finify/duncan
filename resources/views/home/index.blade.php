@@ -45,8 +45,8 @@
 -->
 <div class="callout-banner section-spacing">
     <div class="container clearfix">
-        <h3 class="title">Provide solutions for the realiable growth</h3>
-        <p style="color:white!important;">We are committed to achieving excellence at every stage of our business operation, passionately striving to reach our full potential as a company and as individuals – doing the right things the right way.</p>
+        <h3 class="title">Provide solutions for realiable growth</h3>
+        <p style="color:white!important;">Our commitment revolves around achieving excellence at every stage of our business operation. We passionately strive to fulfill our full potential as a company and as individuals, consistently choosing to do the right things in the right way.</p>
         <a href="/contact" class="theme-button-one">Contact Us</a>
     </div>
 </div> <!-- /.callout-banner -->
@@ -83,7 +83,7 @@
                     <div class="single-solution-block">
                         <img src="/homeassets/images/icon/8.png" alt="" class="icon">
                         <h5><a href="service-details.html">Customer Value Creation</a></h5>
-                        <p>We make our customers and consumers the focus of everything we do. This we use as a concrete for building long-term relationships and customer loyalty. </p>
+                        <p>We make our customers and consumers the focus of everything we do. This serves as our foundation for cultivating enduring relationships and fostering customer loyalty. </p>
                     </div> <!-- /.single-solution-block -->
                 </div> <!-- /.col- -->
                 <div class="col-lg-4 col-sm-6 col-12">

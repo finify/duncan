@@ -23,8 +23,8 @@
 -->
 <div class="callout-banner no-bg">
     <div class="container clearfix">
-        <h3 class="title">High-Quality <br> Market Experinces</h3>
-        <p>Total quality culture is integral to our processes and systems; thus ensures quality standards are achieved and maintained at all levels of our operations.</p>
+        <h3 class="title">High-Quality <br> Market Experience</h3>
+        <p>Our commitment to a total quality culture is embedded in our processes and systems, guaranteeing the attainment and sustained maintenance of quality standards across all operational levels.</p>
         <a href="/contact" class="theme-button-one">CONTACT US</a>
     </div>
 </div> <!-- /.callout-banner -->
