@@ -122,15 +122,13 @@
     <div class="overlay">
         <div class="container">
             <div class="row no-gutters">
-                <div class="col-lg-7 col-12 text">
+                <div class="col-lg-12 col-12 text">
                     <div class="theme-title-one">
                         <h2>ABOUT US</h2>
                     </div> <!-- /.theme-title-one -->
                     <p style="color:white!important;">Duncan Investments Limited (DUNCAN), a private liability company incorporated on September 29th 1989 under the laws of the Federal Republic of Nigeria – RC No. 137890, is an energy-focused investment company with strong Niger Delta presence in its ownership and organization. We know the Niger Delta terrain and are accustomed to peculiarities of its business environment. Duncan has experience providing solutions in this business terrain and we are positioned to achieve leadership in the production and marketing of refined crude oil products, LPG, Petrochemicals; Methanol, Ammonia-urea, Polypropylene, Polyethylene etcetera.</p>
                 </div> <!-- /.col- -->
-                <div class="col-lg-5 col-12">
-                    <img src="" alt="">
-                </div>
+               
             </div> <!-- /.row -->
         </div> <!-- /.container -->
     </div> <!-- /.overlay -->

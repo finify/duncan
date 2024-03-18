@@ -8,11 +8,11 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 		<!-- For Window Tab Color -->
 		<!-- Chrome, Firefox OS and Opera -->
-		<meta name="theme-color" content="#061948">
+		<meta name="theme-color" content="#40844D">
 		<!-- Windows Phone -->
-		<meta name="msapplication-navbutton-color" content="#061948">
+		<meta name="msapplication-navbutton-color" content="#40844D">
 		<!-- iOS Safari -->
-		<meta name="apple-mobile-web-app-status-bar-style" content="#061948">
+		<meta name="apple-mobile-web-app-status-bar-style" content="#40844D">
 		<title>Duncan Investment</title>
 		<!-- Favicon -->
 		<link rel="icon" type="image/png" sizes="56x56" href="/homeassets/images/duncafavicon.png">
