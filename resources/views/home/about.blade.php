@@ -24,7 +24,7 @@
 <div class="callout-banner no-bg">
     <div class="container clearfix">
         <h3 class="title">High-Quality <br> Market Experience</h3>
-        <p>Our commitment to a total quality culture is embedded in our processes and systems, guaranteeing the attainment and sustained maintenance of quality standards across all operational levels.</p>
+        <p>At Duncan, we are dedicated to driving positive change in the energy sector through strategic investments that deliver financial returns and create lasting impact. Join us in shaping the future of energy for generations to come.</p>
         <a href="/contact" class="theme-button-one">CONTACT US</a>
     </div>
 </div> <!-- /.callout-banner -->
@@ -81,7 +81,7 @@
                         <li>
                             <i class="icon flaticon-presentation"></i>
                             <h5><a href="#">Mission Statement</a></h5>
-                            <p>To become a leading, dependable and indispensable name in the proficient provision of value-adding and efficient service in the industry we serve.</p>
+                            <p>Our mission at Duncan is to foster a cleaner, more efficient, and sustainable energy future by investing in transformative projects and technologies. We are committed to identifying, nurturing, and investing in high-potential energy projects that create value, foster innovation, and contribute to Nigeria's economic development.</p>
                         </li>
                         <li>
                             <i class="icon flaticon-people"></i>
@@ -135,6 +135,74 @@
         </div> <!-- /.clearfix -->
     </div> <!-- /.container -->
 </div> <!-- /.theme-counter -->
+
+<!-- 
+=============================================
+    Core Values
+============================================== 
+-->
+<div class="core-values">
+    <div class="container">
+        <div class="theme-title-one">
+            <h2>Our Investment Focus Areas </h2>
+        </div> <!-- /.theme-title-one -->
+        <div class="wrapper">
+            <div class="core-value-slider">
+                <div class="item">
+                    <div class="single-value-block">
+                        <div class="image-box">
+                            <img src="/homeassets/images/refine.jpeg" alt="">
+                        </div> <!-- /.image-box -->
+                        <div class="text">
+                            <h5><a href="#">Refining and Petrochemicals </a></h5>
+                            <p>The Love Boat soon will be making other run plore strange tools.</p>
+                        </div> <!-- /.text -->
+                    </div> <!-- /.single-value-block -->
+                </div> <!-- /.col- -->
+                <div class="item">
+                    <div class="single-value-block">
+                        <div class="image-box">
+                            <img src="/homeassets/images/power.jpeg" alt="">
+                        </div> <!-- /.image-box -->
+                        <div class="text">
+                            <h5><a href="#">Power Generation and Distribution </a></h5>
+                        </div> <!-- /.text -->
+                    </div> <!-- /.single-value-block -->
+                </div> <!-- /.col- -->
+                <div class="item">
+                    <div class="single-value-block">
+                        <div class="image-box">
+                            <img src="/homeassets/images/renewable.webp" alt="">
+                        </div> <!-- /.image-box -->
+                        <div class="text">
+                            <h5><a href="#">Renewable Energy </a></h5>
+                        </div> <!-- /.text -->
+                    </div> <!-- /.single-value-block -->
+                </div> <!-- /.col- -->
+                <div class="item">
+                    <div class="single-value-block">
+                        <div class="image-box">
+                            <img src="/homeassets/images/construction.jpeg" alt="">
+                        </div> <!-- /.image-box -->
+                        <div class="text">
+                            <h5><a href="#">⁠Infrastructure Development </a></h5>
+                        </div> <!-- /.text -->
+                    </div> <!-- /.single-value-block -->
+                </div> <!-- /.col- -->
+                <div class="item">
+                    <div class="single-value-block">
+                        <div class="image-box">
+                            <img src="/homeassets/images/oil.jpeg" alt="">
+                        </div> <!-- /.image-box -->
+                        <div class="text">
+                            <h5><a href="#">Oil & Gas Exploration and Production </a></h5>
+                        </div> <!-- /.text -->
+                    </div> <!-- /.single-value-block -->
+                </div> <!-- /.col- -->
+            </div> <!-- /.core-value-slider -->
+        </div> <!-- /.wrapper -->
+    </div> <!-- /.container -->
+</div> <!-- /.core-values -->
 
 
 <!-- 

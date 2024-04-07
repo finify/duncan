@@ -12,9 +12,7 @@
                     <p>We have a team of experienced managers, technicians, and skilled workers, drawn from the various requisite disciplines in oil and gas</p>
                     <ul class="social-icon">
                         <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                        <li><a href="#"><i class="fa-brands fa-x-twitter" aria-hidden="true"></i></a></li>
-                        <li><a href="#"><i class="fa fa-pinterest" aria-hidden="true"></i></a></li>
-                        <li><a href="#"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
+                        <li><a href="#"><i class="fa fa-youtube" aria-hidden="true"></i></a></li>
                     </ul>
                 </div> <!-- /.logo-widget -->
                 <div class="col-lg-2 col-sm-6 col-12 footer-list">

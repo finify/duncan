@@ -126,7 +126,8 @@
                     <div class="theme-title-one">
                         <h2>ABOUT US</h2>
                     </div> <!-- /.theme-title-one -->
-                    <p style="color:white!important;">Duncan Investments Limited (DUNCAN), a private liability company incorporated on September 29th 1989 under the laws of the Federal Republic of Nigeria – RC No. 137890, is an energy-focused investment company with strong Niger Delta presence in its ownership and organization. We know the Niger Delta terrain and are accustomed to peculiarities of its business environment. Duncan has experience providing solutions in this business terrain and we are positioned to achieve leadership in the production and marketing of refined crude oil products, LPG, Petrochemicals; Methanol, Ammonia-urea, Polypropylene, Polyethylene etcetera.</p>
+                    <p style="color:white!important;">Duncan Investment Limited (DUNCAN) is a dynamic and forward-thinking investment company with a primary focus on the energy sector. Established with a vision to drive sustainable growth and innovation in the energy industry, Duncan strategically identifies investment opportunities that align with emerging trends, technological advancements, and environmental sustainability.
+</p>
                 </div> <!-- /.col- -->
                
             </div> <!-- /.row -->
@@ -134,6 +135,73 @@
     </div> <!-- /.overlay -->
 </div> <!-- /.about-compnay-two -->
 
+<!-- 
+=============================================
+    Core Values
+============================================== 
+-->
+<div class="core-values">
+    <div class="container">
+        <div class="theme-title-one">
+            <h2>Our Investment Focus Areas: </h2>
+        </div> <!-- /.theme-title-one -->
+        <div class="wrapper">
+            <div class="core-value-slider">
+                <div class="item">
+                    <div class="single-value-block">
+                        <div class="image-box">
+                            <img src="/homeassets/images/refine.jpeg" alt="">
+                        </div> <!-- /.image-box -->
+                        <div class="text">
+                            <h5><a href="#">Refining and Petrochemicals </a></h5>
+                            <p>The Love Boat soon will be making other run plore strange tools.</p>
+                        </div> <!-- /.text -->
+                    </div> <!-- /.single-value-block -->
+                </div> <!-- /.col- -->
+                <div class="item">
+                    <div class="single-value-block">
+                        <div class="image-box">
+                            <img src="/homeassets/images/power.jpeg" alt="">
+                        </div> <!-- /.image-box -->
+                        <div class="text">
+                            <h5><a href="#">Power Generation and Distribution </a></h5>
+                        </div> <!-- /.text -->
+                    </div> <!-- /.single-value-block -->
+                </div> <!-- /.col- -->
+                <div class="item">
+                    <div class="single-value-block">
+                        <div class="image-box">
+                            <img src="/homeassets/images/renewable.webp" alt="">
+                        </div> <!-- /.image-box -->
+                        <div class="text">
+                            <h5><a href="#">Renewable Energy </a></h5>
+                        </div> <!-- /.text -->
+                    </div> <!-- /.single-value-block -->
+                </div> <!-- /.col- -->
+                <div class="item">
+                    <div class="single-value-block">
+                        <div class="image-box">
+                            <img src="/homeassets/images/construction.jpeg" alt="">
+                        </div> <!-- /.image-box -->
+                        <div class="text">
+                            <h5><a href="#">⁠Infrastructure Development </a></h5>
+                        </div> <!-- /.text -->
+                    </div> <!-- /.single-value-block -->
+                </div> <!-- /.col- -->
+                <div class="item">
+                    <div class="single-value-block">
+                        <div class="image-box">
+                            <img src="/homeassets/images/oil.jpeg" alt="">
+                        </div> <!-- /.image-box -->
+                        <div class="text">
+                            <h5><a href="#">Oil & Gas Exploration and Production </a></h5>
+                        </div> <!-- /.text -->
+                    </div> <!-- /.single-value-block -->
+                </div> <!-- /.col- -->
+            </div> <!-- /.core-value-slider -->
+        </div> <!-- /.wrapper -->
+    </div> <!-- /.container -->
+</div> <!-- /.core-values -->
 
 
 
