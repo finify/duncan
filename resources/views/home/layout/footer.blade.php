@@ -8,8 +8,8 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-4 col-sm-6 col-12 logo-widget">
-                    <div class="logo"><a href="index.html"><img src="/homeassets/images/duncanlogo.png" width="200px" alt=""></a></div>
-                    <p>We have a team of experienced managers, technicians, and skilled workers, drawn from the various requisite disciplines in oil and gas</p>
+                    <!-- <div class="logo"><a href="index.html"><img src="/homeassets/images/duncanlogo.png" width="200px" alt=""></a></div> -->
+                    <p>At Duncan, we are dedicated to driving positive change in the energy sector through strategic investments that deliver financial returns and create lasting impact. Join us in shaping the future of energy for generations to come.</p>
                     <ul class="social-icon">
                         <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
                         <li><a href="#"><i class="fa fa-youtube" aria-hidden="true"></i></a></li>
