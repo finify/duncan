@@ -247,6 +247,35 @@
 </div> <!-- /.why-choose-us -->
 
 
+<div class="container pt-5">
+    <div class="theme-title-one">
+        <h2>GALLERY</h2>
+    </div> <!-- /.theme-title-one -->
+    <div class="wrapper">
+        <div class="row">
+            <div class="col-4">
+                <a href="/homeassets/gallery/gallery1.jpg" data-fancybox="gallery" data-caption="Caption for single image" class="fancybox"><img src="/homeassets/gallery/gallery1.jpg" alt=""></a>
+            </div>
+            <div class="col-4">
+                <a href="/homeassets/gallery/gallery2.jpg" data-fancybox="gallery" data-caption="Caption for single image" class="fancybox"><img src="/homeassets/gallery/gallery2.jpg" alt=""></a>
+            </div>
+            <div class="col-4">
+                <a href="/homeassets/gallery/gallery3.jpg" data-fancybox="gallery" data-caption="Caption for single image" class="fancybox"><img src="/homeassets/gallery/gallery3.jpg" alt=""></a>
+            </div>
+            <div class="col-4">
+                <a href="/homeassets/gallery/gallery4.jpg" data-fancybox="gallery" data-caption="Caption for single image" class="fancybox"><img src="/homeassets/gallery/gallery4.jpg" alt=""></a>
+            </div>
+            <div class="col-4">
+                <a href="/homeassets/gallery/gallery5.jpg" data-fancybox="gallery" data-caption="Caption for single image" class="fancybox"><img src="/homeassets/gallery/gallery5.jpg" alt=""></a>
+            </div>
+            <div class="col-4">
+                <a href="/homeassets/gallery/gallery6.jpg" data-fancybox="gallery" data-caption="Caption for single image" class="fancybox"><img src="/homeassets/gallery/gallery6.jpg" alt=""></a>
+            </div>
+           
+        </div>
+    </div>
+</div>
+
 
 
 

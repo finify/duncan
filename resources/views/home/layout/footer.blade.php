@@ -28,23 +28,29 @@
                     <div class="wrapper">
                         <div class="row">
                             <div class="col-4">
-                                <a href="images/portfolio/7.jpg" data-fancybox="gallery" data-caption="Caption for single image" class="fancybox"><img src="images/portfolio/7.jpg" alt=""></a>
+                                <a href="/homeassets/gallery/gallery1.jpg" data-fancybox="gallery" data-caption="Caption for single image" class="fancybox"><img src="/homeassets/gallery/gallery1.jpg" alt=""></a>
                             </div>
                             <div class="col-4">
-                                <a href="images/portfolio/8.jpg" data-fancybox="gallery" data-caption="Caption for single image" class="fancybox"><img src="images/portfolio/8.jpg" alt=""></a>
+                                <a href="/homeassets/gallery/gallery2.jpg" data-fancybox="gallery" data-caption="Caption for single image" class="fancybox"><img src="/homeassets/gallery/gallery2.jpg" alt=""></a>
                             </div>
                             <div class="col-4">
-                                <a href="images/portfolio/9.jpg" data-fancybox="gallery" data-caption="Caption for single image" class="fancybox"><img src="images/portfolio/9.jpg" alt=""></a>
+                                <a href="/homeassets/gallery/gallery3.jpg" data-fancybox="gallery" data-caption="Caption for single image" class="fancybox"><img src="/homeassets/gallery/gallery3.jpg" alt=""></a>
                             </div>
                             <div class="col-4">
-                                <a href="images/portfolio/10.jpg" data-fancybox="gallery" data-caption="Caption for single image" class="fancybox"><img src="images/portfolio/10.jpg" alt=""></a>
+                                <a href="/homeassets/gallery/gallery4.jpg" data-fancybox="gallery" data-caption="Caption for single image" class="fancybox"><img src="/homeassets/gallery/gallery4.jpg" alt=""></a>
                             </div>
                             <div class="col-4">
+                                <a href="/homeassets/gallery/gallery5.jpg" data-fancybox="gallery" data-caption="Caption for single image" class="fancybox"><img src="/homeassets/gallery/gallery5.jpg" alt=""></a>
+                            </div>
+                            <div class="col-4">
+                                <a href="/homeassets/gallery/gallery6.jpg" data-fancybox="gallery" data-caption="Caption for single image" class="fancybox"><img src="/homeassets/gallery/gallery6.jpg" alt=""></a>
+                            </div>
+                            <!-- <div class="col-4">
                                 <a href="images/portfolio/11.jpg" data-fancybox="gallery" data-caption="Caption for single image" class="fancybox"><img src="images/portfolio/11.jpg" alt=""></a>
                             </div>
                             <div class="col-4">
                                 <a href="images/portfolio/12.jpg" data-fancybox="gallery" data-caption="Caption for single image" class="fancybox"><img src="images/portfolio/12.jpg" alt=""></a>
-                            </div>
+                            </div> -->
                         </div>
                     </div>
                 </div> <!-- /.footer-gallery -->
