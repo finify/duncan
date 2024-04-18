@@ -170,7 +170,7 @@
                 <div class="item">
                     <div class="single-value-block">
                         <div class="image-box">
-                            <img src="/homeassets/images/renewable.webp" alt="">
+                            <img src="/homeassets/images/solar.jpg" height="250px" alt="">
                         </div> <!-- /.image-box -->
                         <div class="text">
                             <h5><a href="#">Renewable Energy </a></h5>
@@ -270,6 +270,9 @@
             </div>
             <div class="col-4">
                 <a href="/homeassets/gallery/gallery6.jpg" data-fancybox="gallery" data-caption="Caption for single image" class="fancybox"><img src="/homeassets/gallery/gallery6.jpg" alt=""></a>
+            </div>
+            <div class="col-4">
+                <a href="/homeassets/images/isokari.jpg" data-fancybox="gallery" data-caption="Caption for single image" class="fancybox"><img src="/homeassets/images/isokari.jpg" alt=""></a>
             </div>
            
         </div>

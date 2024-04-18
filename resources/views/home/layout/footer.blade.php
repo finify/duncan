@@ -11,8 +11,9 @@
                     <!-- <div class="logo"><a href="index.html"><img src="/homeassets/images/duncanlogo.png" width="200px" alt=""></a></div> -->
                     <p>At Duncan, we are dedicated to driving positive change in the energy sector through strategic investments that deliver financial returns and create lasting impact. Join us in shaping the future of energy for generations to come.</p>
                     <ul class="social-icon">
-                        <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                        <li><a href="#"><i class="fa fa-youtube" aria-hidden="true"></i></a></li>
+                        <li><a href="https://www.linkedin.com/company/duncan-investment-limited?trk=blended-typeahead"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+                        <!-- <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                        <li><a href="#"><i class="fa fa-youtube" aria-hidden="true"></i></a></li> -->
                     </ul>
                 </div> <!-- /.logo-widget -->
                 <div class="col-lg-2 col-sm-6 col-12 footer-list">
@@ -23,37 +24,7 @@
 							<li><a href="/contact">Contact</a></li>
                     </ul>
                 </div> <!-- /.footer-list -->
-                <div class="col-lg-3 col-sm-6 col-12 footer-gallery">
-                    <h6 class="title">Gallery</h6>
-                    <div class="wrapper">
-                        <div class="row">
-                            <div class="col-4">
-                                <a href="/homeassets/gallery/gallery1.jpg" data-fancybox="gallery" data-caption="Caption for single image" class="fancybox"><img src="/homeassets/gallery/gallery1.jpg" alt=""></a>
-                            </div>
-                            <div class="col-4">
-                                <a href="/homeassets/gallery/gallery2.jpg" data-fancybox="gallery" data-caption="Caption for single image" class="fancybox"><img src="/homeassets/gallery/gallery2.jpg" alt=""></a>
-                            </div>
-                            <div class="col-4">
-                                <a href="/homeassets/gallery/gallery3.jpg" data-fancybox="gallery" data-caption="Caption for single image" class="fancybox"><img src="/homeassets/gallery/gallery3.jpg" alt=""></a>
-                            </div>
-                            <div class="col-4">
-                                <a href="/homeassets/gallery/gallery4.jpg" data-fancybox="gallery" data-caption="Caption for single image" class="fancybox"><img src="/homeassets/gallery/gallery4.jpg" alt=""></a>
-                            </div>
-                            <div class="col-4">
-                                <a href="/homeassets/gallery/gallery5.jpg" data-fancybox="gallery" data-caption="Caption for single image" class="fancybox"><img src="/homeassets/gallery/gallery5.jpg" alt=""></a>
-                            </div>
-                            <div class="col-4">
-                                <a href="/homeassets/gallery/gallery6.jpg" data-fancybox="gallery" data-caption="Caption for single image" class="fancybox"><img src="/homeassets/gallery/gallery6.jpg" alt=""></a>
-                            </div>
-                            <!-- <div class="col-4">
-                                <a href="images/portfolio/11.jpg" data-fancybox="gallery" data-caption="Caption for single image" class="fancybox"><img src="images/portfolio/11.jpg" alt=""></a>
-                            </div>
-                            <div class="col-4">
-                                <a href="images/portfolio/12.jpg" data-fancybox="gallery" data-caption="Caption for single image" class="fancybox"><img src="images/portfolio/12.jpg" alt=""></a>
-                            </div> -->
-                        </div>
-                    </div>
-                </div> <!-- /.footer-gallery -->
+                
                 
                 <div class="col-lg-3 col-sm-6 col-12 contact-widget">
                     <h6 class="title">CONTACT</h6>

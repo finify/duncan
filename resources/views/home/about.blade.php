@@ -172,7 +172,7 @@
                 <div class="item">
                     <div class="single-value-block">
                         <div class="image-box">
-                            <img src="/homeassets/images/renewable.webp" alt="">
+                            <img src="/homeassets/images/solar.jpg" alt="">
                         </div> <!-- /.image-box -->
                         <div class="text">
                             <h5><a href="#">Renewable Energy </a></h5>
