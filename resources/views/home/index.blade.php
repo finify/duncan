@@ -254,27 +254,24 @@
     <div class="wrapper">
         <div class="row">
             <div class="col-4">
-                <a href="/homeassets/gallery/gallery1.jpg" data-fancybox="gallery" data-caption="Caption for single image" class="fancybox"><img src="/homeassets/gallery/gallery1.jpg" alt=""></a>
+                <a href="/homeassets/gallery/gallery1.jpg" data-fancybox="gallery" data-caption="Joint Site Visit with NNPC" class="fancybox"><img src="/homeassets/gallery/gallery1.jpg" alt=""></a>
             </div>
             <div class="col-4">
-                <a href="/homeassets/gallery/gallery2.jpg" data-fancybox="gallery" data-caption="Caption for single image" class="fancybox"><img src="/homeassets/gallery/gallery2.jpg" alt=""></a>
+                <a href="/homeassets/gallery/gallery2.jpg" data-fancybox="gallery" data-caption="Joint Site Visit with NNPC" class="fancybox"><img src="/homeassets/gallery/gallery2.jpg" alt=""></a>
             </div>
             <div class="col-4">
-                <a href="/homeassets/gallery/gallery3.jpg" data-fancybox="gallery" data-caption="Caption for single image" class="fancybox"><img src="/homeassets/gallery/gallery3.jpg" alt=""></a>
+                <a href="/homeassets/gallery/gallery3.jpg" data-fancybox="gallery" data-caption="Joint Site Visit with NNPC" class="fancybox"><img src="/homeassets/gallery/gallery3.jpg" alt=""></a>
             </div>
             <div class="col-4">
-                <a href="/homeassets/gallery/gallery4.jpg" data-fancybox="gallery" data-caption="Caption for single image" class="fancybox"><img src="/homeassets/gallery/gallery4.jpg" alt=""></a>
+                <a href="/homeassets/gallery/gallery4.jpg" data-fancybox="gallery" data-caption="Joint Site Visit with NNPC" class="fancybox"><img src="/homeassets/gallery/gallery4.jpg" alt=""></a>
+                <a href="/homeassets/images/isokari.jpg" data-fancybox="gallery" data-caption="Joint Site Visit with NNPC" class="fancybox"><img src="/homeassets/images/isokari.jpg" alt=""></a>
             </div>
             <div class="col-4">
-                <a href="/homeassets/gallery/gallery5.jpg" data-fancybox="gallery" data-caption="Caption for single image" class="fancybox"><img src="/homeassets/gallery/gallery5.jpg" alt=""></a>
+                <a href="/homeassets/gallery/gallery5.jpg" data-fancybox="gallery" data-caption="Joint Site Visit with NNPC" class="fancybox"><img src="/homeassets/gallery/gallery5.jpg" alt=""></a>
             </div>
             <div class="col-4">
-                <a href="/homeassets/gallery/gallery6.jpg" data-fancybox="gallery" data-caption="Caption for single image" class="fancybox"><img src="/homeassets/gallery/gallery6.jpg" alt=""></a>
+                <a href="/homeassets/gallery/gallery6.jpg" data-fancybox="gallery" data-caption="Joint Site Visit with NNPC" class="fancybox"><img src="/homeassets/gallery/gallery6.jpg" alt=""></a>
             </div>
-            <div class="col-4">
-                <a href="/homeassets/images/isokari.jpg" data-fancybox="gallery" data-caption="Caption for single image" class="fancybox"><img src="/homeassets/images/isokari.jpg" alt=""></a>
-            </div>
-           
         </div>
     </div>
 </div>
