@@ -415,7 +415,7 @@ body .theme-button-one:hover {background:#000f32; }
   position: absolute;
   left:0;
   z-index: 99;
-  top:50%;
+  top:60%;
   -webkit-transform:translateY(-50%);
           transform:translateY(-50%);
 }

@@ -9,7 +9,7 @@
 	<div class="theme-menu-wrapper">
 		<div class="container">
 			<div class="bg-wrapper clearfix">
-				<div class="logo float-left"><a href="/"><img src="/homeassets/images/duncanlogo.png" width="100px" alt=""></a></div>
+				<div class="logo float-left"><a href="/"><img src="/homeassets/images/newduncanlogo.png" width="200px" alt=""></a></div>
 				<!-- ============== Menu Warpper ================ -->
 				<div class="menu-wrapper float-left">
 					<nav id="mega-menu-holder" class="clearfix">
