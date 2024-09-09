@@ -155,7 +155,7 @@
                         </div> <!-- /.image-box -->
                         <div class="text">
                             <h5><a href="#">Refining and Petrochemicals </a></h5>
-                            <p>The Love Boat soon will be making other run plore strange tools.</p>
+                            
                         </div> <!-- /.text -->
                     </div> <!-- /.single-value-block -->
                 </div> <!-- /.col- -->

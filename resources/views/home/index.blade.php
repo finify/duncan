@@ -51,6 +51,45 @@
     </div>
 </div> <!-- /.callout-banner -->
 
+<!-- 
+=============================================
+    About Company Stye Two
+============================================== 
+-->
+<div class="about-compnay-two no-bg section-spacing">
+    <div class="overlay">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 col-12 text order-lg-last">
+                    <div class="theme-title-one">
+                        <h2>CEO MESSAGE</h2>
+                    </div> <!-- /.theme-title-one -->
+                    <p> <b>Welcome to Duncan Investment Limited, </b>
+                    <br>
+                    At Duncan Investment, we believe in the power of leadership and innovation to transform industries, communities, and lives. Our mission is simple yet profound: to drive sustainable progress and create opportunities for abundant growth across Africa. 
+                    <br>
+                    We are making strategic investments in critical sectors such as petrochemicals, manufacturing, and energy—industries that are not only essential for economic growth but also vital for building a brighter future for generations to come. We are committed to ensuring that every project we undertake contributes to both the prosperity of our company and the well-being of the communities we serve.
+                    <br>
+                    Our vision of “Life More Abundantly” goes beyond financial success; it’s about leaving a lasting impact. From developing state-of-the-art infrastructure to fostering partnerships that empower local economies, we are shaping a future where progress and opportunity go hand in hand.
+                    <br>
+                    Thank you for joining us on this journey. Together, we will continue to lead, innovate, and create a future full of promise and abundance.
+                    <br>
+                    Sincerely, <br> 
+                    <b>Piriye Isokrari</b><br>
+                    <b>Managing Director/CEO</b><br>
+                    <b>Duncan Investment Limited</b
+                    
+                    </p>
+                  
+                    <img src="images/home/sign-black.png" alt="" class="sign">
+                </div> <!-- /.col- -->
+                {{-- <div class="col-lg-6 col-12 order-lg-first">
+                    <img src="/homeassets/images/about1.jpeg" alt="" class="left-img">
+                </div> --}}
+            </div> <!-- /.row -->
+        </div> <!-- /.container -->
+    </div> <!-- /.overlay -->
+</div> <!-- /.about-compnay-two -->
 
 <!-- 
 =============================================
