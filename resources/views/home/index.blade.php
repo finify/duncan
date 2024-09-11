@@ -60,7 +60,7 @@
     <div class="overlay">
         <div class="container">
             <div class="row">
-                <div class="col-lg-12 col-12 text order-lg-last">
+                <div class="col-lg-6 col-12 text order-lg-last">
                     <div class="theme-title-one">
                         <h2>CEO MESSAGE</h2>
                     </div> <!-- /.theme-title-one -->
@@ -77,15 +77,16 @@
                     Sincerely, <br> 
                     <b>Piriye Isokrari</b><br>
                     <b>Managing Director/CEO</b><br>
-                    <b>Duncan Investment Limited</b
+                    <b>Duncan Investment Limited</b>
                     
                     </p>
                   
                     <img src="images/home/sign-black.png" alt="" class="sign">
                 </div> <!-- /.col- -->
-                {{-- <div class="col-lg-6 col-12 order-lg-first">
-                    <img src="/homeassets/images/about1.jpeg" alt="" class="left-img">
-                </div> --}}
+                <div class="col-lg-6 col-12 order-lg-first">
+                    <center><img src="/homeassets/images/ceoimage.JPG" alt="" width="80%" class="left-img"></center>
+                    
+                </div>
             </div> <!-- /.row -->
         </div> <!-- /.container -->
     </div> <!-- /.overlay -->
