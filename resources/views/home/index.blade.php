@@ -167,7 +167,7 @@
                         <h2>ABOUT US</h2>
                     </div> <!-- /.theme-title-one -->
                     <p style="color:white!important;">Duncan Investment Limited (DUNCAN) is a dynamic and forward-thinking investment company with a primary focus on the energy sector. Established with a vision to drive sustainable growth and innovation in the energy industry, Duncan strategically identifies investment opportunities that align with emerging trends, technological advancements, and environmental sustainability.
-</p>
+                    </p>
                 </div> <!-- /.col- -->
                
             </div> <!-- /.row -->

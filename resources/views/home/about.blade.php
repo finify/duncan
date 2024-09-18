@@ -76,7 +76,8 @@
                         <li>
                             <i class="icon flaticon-puzzle"></i>
                             <h5><a href="#">Our Vision</a></h5>
-                            <p>To become the foremost energy sector participant in Africa</p>
+                            <p>Shaping a future where progress and opportunity go hand in hand</p>
+                        
                         </li>
                         <li>
                             <i class="icon flaticon-presentation"></i>
