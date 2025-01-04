@@ -49,7 +49,7 @@
     </div> <!-- /.top-footer -->
     <div class="bottom-footer">
         <div class="container">
-            <p>&copy; Copyrights 2024. All Rights Reserved.</p><br>
+            <p>&copy; Copyrights 2025. All Rights Reserved.</p><br>
             <p>Designed By Finify Technologies</p>
         </div>
     </div> <!-- /.bottom-footer -->
