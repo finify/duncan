@@ -35,7 +35,7 @@
                         </li>
                         <li>
                             <i class="flaticon-multimedia-1"></i>
-                            <a href="#">info@duncan.ng</a>
+                            <a href="#">admin@duncan.ng</a>
                         </li>
                         <li>
                             <i class="fa fa-phone" aria-hidden="true"></i>
