@@ -56,6 +56,37 @@
     </div> <!-- /.overlay -->
 </div> <!-- /.about-compnay-two -->
 
+<!-- 
+=============================================
+    About Company Stye Two
+============================================== 
+-->
+<div class="about-compnay-two no-bg section-spacing">
+    <div class="overlay">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6 col-12 text order-lg-last">
+                    <div class="theme-title-one">
+                        <h4>Founder Biography <br/> Dr. Ombo Ferguson Isokrari</h4>
+                    </div> <!-- /.theme-title-one -->
+                    <p>Dr. Ombo Ferguson Isokrari was an astute geologist, renowned petroleum engineer, accomplished industrialist, and visionary administrator whose legacy continues to shape Duncan Investment Limited. Born on March 7, 1944, in Buguma, Rivers State, he combined deep academic excellence with international experience and patriotic service to become one of Nigeria’s most respected energy and industrial leaders. Dr. Isokrari held a Ph.D. in Petroleum Engineering from the University of Texas, a Master’s in Petroleum Engineering from the University of Oklahoma, and a Bachelor’s in Geology from the University of Illinois, USA. His academic focus on oil, gas, refining, and petrochemicals laid the foundation for his lifelong impact on Nigeria’s energy sector. Between 1972 and 1982, he worked internationally in the United States with major institutions and companies including Halliburton, Standard Oil (Amoco), Core Laboratories, and the U.S. Energy Research and Development Agency, gaining global exposure in petroleum research and engineering consultancy. He returned to Nigeria in 1979 and joined the Nigerian National Petroleum Corporation (NNPC), serving as Head of Petroleum Engineering and Petroleum Chemistry Laboratories, before being appointed by the Federal Government in 1982 as the Project Engineer and pioneer Project Manager of the National Fertilizer Company of Nigeria (NAFCON)—the country’s first gas-based nitrogen fertilizer plant. He later became Deputy Managing Director of NAFCON (1985–1991) and subsequently its first indigenous Managing Director and CEO (1991–1996). Under his leadership, NAFCON achieved over 105% production capacity utilization, became an industry benchmark, and left a positive cash flow balance of ₦5.4 billion. His tenure attracted global recognition, including the M.W. Kellogg Award for best-managed fertilizer plant worldwide. Following his tenure at NAFCON, Dr. Isokrari founded Duncan Investment Limited in 1989, transforming it into a forward-looking energy investment company focused on refining, petrochemicals, methanol, LPG, and ammonia-urea. He also served as Chairman/CEO of multiple companies including Moris Petroleum, Garo Nigeria Ltd, and Industrial Expertise Ltd, contributing to upstream and downstream oil and gas, marine services, and EPC consulting. Dr. Isokrari was a Fellow of the Nigerian Society of Engineers, Society of Chemical Engineers, and Polymer Institute of Nigeria, and served as Pro-Chancellor of the Rivers State University of Science and Technology, and Chairman of the Cross River Basin Development Authority. A founding member and Board of Trustees member of the People’s Democratic Party (PDP), he was also a respected voice in national development, policy, and governance. His vision, discipline, and technical excellence remain central to the mission and culture of Duncan Investment Limited.</p>
+                    <br> 
+                    <h5>OUR FOUNDER</h5>
+                    <h6>Dr. Ombo Ferguson Isokrari, Ph.D</h6>
+                    <h6>Founder, Duncan Investment Limited (FNSE, FNSCHE, FPIN, MSPE)</h6>
+                    </p>
+                  
+                    <img src="images/home/sign-black.png" alt="" class="sign">
+                </div> <!-- /.col- -->
+                <div class="col-lg-6 col-12 order-lg-first">
+                    <center><img src="/homeassets/images/founder.png" alt="" width="80%" class="left-img"></center>
+                    
+                </div>
+            </div> <!-- /.row -->
+        </div> <!-- /.container -->
+    </div> <!-- /.overlay -->
+</div> <!-- /.about-compnay-two -->
+
 
 <!--
 =====================================================
