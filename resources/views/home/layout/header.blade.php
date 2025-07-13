@@ -15,7 +15,14 @@
 					<nav id="mega-menu-holder" class="clearfix">
 						<ul class="clearfix">
 							<li><a href="/">Home</a></li>
-							<li><a href="/about">About</a></li>
+							{{-- <li><a href="/about">About</a></li> --}}
+							<li><a href="#">About</a>
+								<ul class="dropdown">
+										<li><a href="/about#Business">Our Business</a></li>
+										<li><a href="/about#Business">History</a></li>
+										<li><a href="/about#Ourteam">Our Team</a></li>
+									</ul>
+							</li>
 							<li><a href="/contact">Contact</a></li>
 						</ul>
 					</nav> <!-- /#mega-menu-holder -->
