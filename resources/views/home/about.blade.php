@@ -318,7 +318,7 @@
                 <div class="col-lg-4 col-sm-6 col-12">
                     <div class="team-member">
                         <div class="image-box">
-                            <img src="/homeassets/images/team/Kelvinpeterside.jpg" alt="">
+                            <img src="/homeassets/images/board/hope.jpg" alt="">
                         </div> <!-- /.image-box -->
                         <div class="text">
                             <h6>Hope Isokrari </h6>
@@ -496,7 +496,7 @@
                 <div class="col-lg-4 col-sm-6 col-12">
                     <div class="team-member">
                         <div class="image-box">
-                            <img src="/homeassets/images/team/Kelvinpeterside.jpg" alt="">
+                            <img src="/homeassets/images/team/kelvinpeterside.jpg" alt="">
                         </div> <!-- /.image-box -->
                         <div class="text">
                             <h6>Kelvin Peterside </h6>
