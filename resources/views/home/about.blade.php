@@ -46,7 +46,7 @@
                         <h3>Our Businesses</h3>
                         <h6>DUNCAN INTEGRATED PETROCHEMICAL COMPLEX</h6>
                         <p>Duncan Investment Limited is setting up an Integrated Petrochemical Complex in Rivers State,
-                        Nigeria. The project will be situated on over 450-hectar land by the Sombreiro River, adjacent
+                        Nigeria. The project will be situated on over 450-hectare land by the Sombreiro River, adjacent
                         to the East-West Road — a major national highway. The riverside location provides direct access
                         for exporting products via vessels of up to 40,000 Deadweight Tonnage (DWT), while the land
                         access ensures efficient distribution of products to various regions across the country.
@@ -237,6 +237,218 @@
 <div class="our-team section-spacing" id="Ourteam">
     <div class="container">
         <div class="theme-title-one">
+            <h2>The Board Of Directors</h2>
+        </div> <!-- /.theme-title-one -->
+        <div class="wrapper">
+            <div class="row">
+                <div class="col-lg-4 col-sm-6 col-12">
+                    <div class="team-member">
+                        <div class="image-box">
+                            <img src="/homeassets/images/board/dada.jpg" alt="">
+                        </div> <!-- /.image-box -->
+                        <div class="text">
+                            <h6>Daba O. Isokrari</h6>
+                            <span>Chairman</span>
+                            <div class="">
+                                <div class="accordion-one">
+                                    <div class="panel-group theme-accordion" id="accordion">
+                                        <div class="panel">
+                                            <div class="panel-heading">
+                                                <h6 class="panel-title">
+                                                    <a data-toggle="collapse" data-parent="#accordion"
+                                                        href="#collapse1">
+                                                        View Biography</a>
+                                                </h6>
+                                            </div>
+                                            <div id="collapse1" class="panel-collapse collapse p-2">
+                                                <div class="panel-body">
+                                                    <p>Daba Isokrari is an accomplished business leader with
+                                                    over 40 years of experience in Nigeria’s petroleum
+                                                    downstream sector. She is the founder of Pin Oil Nigeria
+                                                    Limited, Greenway Industries, and Belhope Farms, with
+                                                    interests spanning energy and agribusiness. As
+                                                    Chairman of Duncan Investment Limited, she provides
+                                                    strategic leadership grounded in decades of industry
+                                                    expertise.</p>
+                                                </div>
+                                            </div>
+                                        </div> <!-- /panel 1 -->
+                                    </div>
+                                </div> <!-- /.accordion-one -->
+                            </div>
+                        </div> <!-- /.text -->
+                    </div> <!-- /.team-member -->
+                </div> <!-- /.col- -->
+                <div class="col-lg-4 col-sm-6 col-12">
+                    <div class="team-member">
+                        <div class="image-box">
+                            <img src="/homeassets/images/board/peedi.jpg" alt="">
+                        </div> <!-- /.image-box -->
+                        <div class="text">
+                            <h6>Piriye Isokrari</h6>
+                            <span>Managing Director/Chief Executive Officer</span>
+                            <div class="">
+                                <div class="accordion-one">
+                                    <div class="panel-group theme-accordion" id="accordion">
+                                        <div class="panel">
+                                            <div class="panel-heading">
+                                                <h6 class="panel-title">
+                                                    <a data-toggle="collapse" data-parent="#accordion"
+                                                        href="#collapse1">
+                                                        Info</a>
+                                                </h6>
+                                            </div>
+                                            <div id="collapse1" class="panel-collapse collapse p-2">
+                                                <div class="panel-body">
+                                                    <p>As a board member of Duncan Investment Limited, Piriye
+                                                    Isokrari brings strategic insight and cross-sector
+                                                    experience in energy, business development, and project
+                                                    execution. His background includes leadership roles at
+                                                    Pin Oil and Morris Petroleum, and he holds a degree in
+                                                    Economics from the University of Oklahoma.</p>
+                                                </div>
+                                            </div>
+                                        </div> <!-- /panel 1 -->
+                                    </div>
+                                </div> <!-- /.accordion-one -->
+                            </div>
+                        </div> <!-- /.text -->
+                    </div> <!-- /.team-member -->
+                </div> <!-- /.col- -->
+                <div class="col-lg-4 col-sm-6 col-12">
+                    <div class="team-member">
+                        <div class="image-box">
+                            <img src="/homeassets/images/team/Kelvinpeterside.jpg" alt="">
+                        </div> <!-- /.image-box -->
+                        <div class="text">
+                            <h6>Hope Isokrari </h6>
+                            <span>Director</span>
+                            <div class="">
+                                <div class="accordion-one">
+                                    <div class="panel-group theme-accordion" id="accordion">
+                                        <div class="panel">
+                                            <div class="panel-heading">
+                                                <h6 class="panel-title">
+                                                    <a data-toggle="collapse" data-parent="#accordion"
+                                                        href="#collapse4">
+                                                        View Biography</a>
+                                                </h6>
+                                            </div>
+                                            <div id="collapse4" class="panel-collapse collapse p-2">
+                                                <div class="panel-body">
+                                                    <p>Hope Isokrari is a finance and strategy executive with over a
+                                                    decade of experience in banking and mortgage operations. He
+                                                    has held leadership roles at Wells Fargo Bank and U.S.E. Federal
+                                                    Credit Union, where he served as Vice President of the Mortgage
+                                                    Department. He holds an MBA from Southern Nazarene University
+                                                    and a Bachelor's in Economics from the University of Oklahoma.
+                                                    Known for his strategic mindset and governance experience,
+                                                    Hope also served on the board of the Veterans Association in
+                                                    Oklahoma.
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div> <!-- /panel 1 -->
+                                    </div>
+                                </div> <!-- /.accordion-one -->
+                            </div>
+                        </div> <!-- /.text -->
+                    </div> <!-- /.team-member -->
+                </div> <!-- /.col- -->
+                <div class="col-lg-4 col-sm-6 col-12">
+                    <div class="team-member">
+                        <div class="image-box">
+                            <img src="/homeassets/images/board/biobele.jpg" alt="">
+                        </div> <!-- /.image-box -->
+                        <div class="text">
+                            <h6>Biobele Andrew-Jaja</h6>
+                            <span>Director</span>
+                            <div class="">
+                                <div class="accordion-one">
+                                    <div class="panel-group theme-accordion" id="accordion">
+                                        <div class="panel">
+                                            <div class="panel-heading">
+                                                <h6 class="panel-title">
+                                                    <a data-toggle="collapse" data-parent="#accordion"
+                                                        href="#collapse2">
+                                                        View Biography</a>
+                                                </h6>
+                                            </div>
+                                            <div id="collapse2" class="panel-collapse collapse p-2">
+                                                <div class="panel-body">
+                                                    <p>Biobele Andrew-Jaja contributes strong expertise in international
+                                                    business, diplomacy, and corporate governance to Duncan
+                                                    Investment Limited. She holds a BA in International Studies and
+                                                    Political Science from the University of Oklahoma and an MA in
+                                                    International Studies and Diplomacy from the University of London
+                                                    (SOAS). Her professional background includes impactful roles at
+                                                    Diageo and Experian in the UK, where she excelled in strategic
+                                                    management. Biobele’s global outlook and leadership acumen
+                                                    continue to support the company’s long-term growth and
+                                                    strategic direction.</p>
+                                                </div>
+                                            </div>
+                                        </div> <!-- /panel 1 -->
+                                    </div>
+                                </div> <!-- /.accordion-one -->
+                            </div>
+                        </div> <!-- /.text -->
+                    </div> <!-- /.team-member -->
+                </div> <!-- /.col- -->
+                <div class="col-lg-4 col-sm-6 col-12">
+                    <div class="team-member">
+                        <div class="image-box">
+                            <img src="/homeassets/images/board/nengi.jpg" alt="">
+                        </div> <!-- /.image-box -->
+                        <div class="text">
+                            <h6>Nengi Isokrari</h6>
+                            <span>Director</span>
+                            <div class="">
+                                <div class="accordion-one">
+                                    <div class="panel-group theme-accordion" id="accordion">
+                                        <div class="panel">
+                                            <div class="panel-heading">
+                                                <h6 class="panel-title">
+                                                    <a data-toggle="collapse" data-parent="#accordion"
+                                                        href="#collapse3">
+                                                        View Biography</a>
+                                                </h6>
+                                            </div>
+                                            <div id="collapse3" class="panel-collapse collapse p-2">
+                                                <div class="panel-body">
+                                                    <p>Nengi Isokrari offers a capital markets perspective to the board of
+                                                    Duncan Investment Limited, shaped by his background in
+                                                    investment oversight, institutional risk, and asset management. A
+                                                    SEC-licensed professional and CFA Level 1 candidate, he has held
+                                                    senior roles at leading firms including Sterling Asset Management,
+                                                    Atlass Portfolios, and Arthur Steven Asset Management. He also
+                                                    supports regulatory best practices through his involvement with
+                                                    CCCOMIN, helping to shape compliance standards across
+                                                    Nigeria’s capital markets.
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div> <!-- /panel 1 -->
+                                    </div>
+                                </div> <!-- /.accordion-one -->
+                            </div>
+                        </div> <!-- /.text -->
+                    </div> <!-- /.team-member -->
+                </div> <!-- /.col- -->
+                
+            </div> <!-- /.row -->
+        </div> <!-- /.wrapper -->
+    </div> <!-- /.container -->
+</div> <!-- /.our-team -->
+
+<!--
+    =====================================================
+        Our Team
+    =====================================================
+    -->
+<div class="our-team section-spacing" id="Ourteam">
+    <div class="container">
+        <div class="theme-title-one">
             <h2>Senior Management Team</h2>
         </div> <!-- /.theme-title-one -->
         <div class="wrapper">
@@ -272,6 +484,49 @@
                                                         the University of Oklahoma and has held leadership
                                                         roles at Pin Oil, Morris Petroleum, and Aristokrat
                                                         Group.</p>
+                                                </div>
+                                            </div>
+                                        </div> <!-- /panel 1 -->
+                                    </div>
+                                </div> <!-- /.accordion-one -->
+                            </div>
+                        </div> <!-- /.text -->
+                    </div> <!-- /.team-member -->
+                </div> <!-- /.col- -->
+                <div class="col-lg-4 col-sm-6 col-12">
+                    <div class="team-member">
+                        <div class="image-box">
+                            <img src="/homeassets/images/team/Kelvinpeterside.jpg" alt="">
+                        </div> <!-- /.image-box -->
+                        <div class="text">
+                            <h6>Kelvin Peterside </h6>
+                            <span>Chief Technical Officer</span>
+                            <div class="">
+                                <div class="accordion-one">
+                                    <div class="panel-group theme-accordion" id="accordion">
+                                        <div class="panel">
+                                            <div class="panel-heading">
+                                                <h6 class="panel-title">
+                                                    <a data-toggle="collapse" data-parent="#accordion"
+                                                        href="#collapse4">
+                                                        View Biography</a>
+                                                </h6>
+                                            </div>
+                                            <div id="collapse4" class="panel-collapse collapse p-2">
+                                                <div class="panel-body">
+                                                    <p>Kelvin Peterside is a results-driven energy
+                                                        professional with over 15 years of experience
+                                                        spanning process engineering, business planning,
+                                                        and refinery performance optimization. He has held
+                                                        strategic roles at Chevron, Petrobras, and Valero
+                                                        Energy, where he delivered measurable
+                                                        improvements in margin, efficiency, and turnaround
+                                                        outcomes. With degrees in Chemical Engineering
+                                                        from Texas A&M University–Kingsville (B.Sc.) and
+                                                        Prairie View A&M University (M.Sc.), Kelvin is known
+                                                        for bridging operational realities with strategic
+                                                        planning to support long-term growth.
+                                                    </p>
                                                 </div>
                                             </div>
                                         </div> <!-- /panel 1 -->
@@ -353,8 +608,8 @@
                                                         Ndidiamaka
                                                         Amajor has built a strong track record of delivering growth,
                                                         efficiency, and
-                                                        accountability across diverse industries. A certified public
-                                                        accountant (CPA),
+                                                        accountability across diverse industries. A Certified Public
+                                                        Accountant (CPA),
                                                         she has led financial transformations in telecommunications,
                                                         retail, and
                                                         manufacturing, achieving measurable results—including a 25%
@@ -383,7 +638,7 @@
                         </div> <!-- /.image-box -->
                         <div class="text">
                             <h6>Olaseni Aka-Bashorun</h6>
-                            <span>Company Secretary/General Counsel</span>
+                            <span>General Counsel</span>
                             <div class="">
                                 <div class="accordion-one">
                                     <div class="panel-group theme-accordion" id="accordion">
@@ -421,6 +676,7 @@
                         </div> <!-- /.text -->
                     </div> <!-- /.team-member -->
                 </div> <!-- /.col- -->
+                
             </div> <!-- /.row -->
         </div> <!-- /.wrapper -->
     </div> <!-- /.container -->
