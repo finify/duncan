@@ -66,13 +66,13 @@
                     </div> <!-- /.theme-title-one -->
                     <p> <b>Welcome to Duncan Investment Limited, </b>
                     <br>
-                    At Duncan Investment, we believe in the power of leadership and innovation to transform industries, communities, and lives. Our mission is simple yet profound: to drive sustainable progress and create opportunities for abundant growth across Africa. 
+                    At Duncan, we are committed to transforming industries, empowering communities, and driving sustainable progress across Nigeria. From our base in Port Harcourt, we will deliver world-class petrochemicals, clean fuels, energy, and infrastructure projects that contribute to Nigeria’s industrial growth and energy leadership in Africa. 
                     <br>
-                    We are making strategic investments in critical sectors such as petrochemicals, manufacturing, and energy—industries that are not only essential for economic growth but also vital for building a brighter future for generations to come. We are committed to ensuring that every project we undertake contributes to both the prosperity of our company and the well-being of the communities we serve.
+                    Guided by our philosophy, Life More Abundantly, we measure success not only by economic returns, but by the lasting positive change our projects will bring to people’s lives. 
                     <br>
-                    Our vision of “Life More Abundantly” goes beyond financial success; it’s about leaving a lasting impact. From developing state-of-the-art infrastructure to fostering partnerships that empower local economies, we are shaping a future where progress and opportunity go hand in hand.
+                    Through our commitment to Sustainable Prosperity, we will ensure that every initiative creates jobs, develops skills, promotes local participation, and builds infrastructure that benefits both industry and society. 
                     <br>
-                    Thank you for joining us on this journey. Together, we will continue to lead, innovate, and create a future full of promise and abundance.
+                    Nigeria holds a pivotal role in the global energy transition, and Duncan is determined to help shape that future—leveraging global expertise and local capability to deliver projects that leave a legacy of growth, opportunity, and abundance. Thank you for being part of our journey. Together, we will power progress and create lasting value for generations to come.
                     <br>
                     Sincerely, <br> 
                     <b>Piriye Isokrari</b><br>
