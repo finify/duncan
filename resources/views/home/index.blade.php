@@ -74,7 +74,6 @@
                     <br>
                     Nigeria holds a pivotal role in the global energy transition, and Duncan is determined to help shape that future—leveraging global expertise and local capability to deliver projects that leave a legacy of growth, opportunity, and abundance. Thank you for being part of our journey. Together, we will power progress and create lasting value for generations to come.
                     <br>
-                    Sincerely, <br> 
                     <b>Piriye Isokrari</b><br>
                     <b>Managing Director/CEO</b><br>
                     <b>Duncan Investment Limited</b>
